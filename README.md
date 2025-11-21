@@ -1,5 +1,5 @@
 🚀 GALAXY – 3D Infinite Runner Game (Kivy)
-<div align="center"> <img src="./assets/screenshot.png" alt="Galaxy Screenshot" width="700"> </div>
+<div align="center"> <img src="./images/galaxy.jpg" alt="Galaxy Screenshot" width="700"> </div>
 🎮 Description
 
 Galaxy est un jeu arcade minimaliste développé avec Python & Kivy, disponible sur Windows et Android.
